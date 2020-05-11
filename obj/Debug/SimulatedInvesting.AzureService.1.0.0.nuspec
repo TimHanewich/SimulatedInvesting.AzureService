@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SimulatedInvesting.AzureService</id>
+    <version>1.0.0</version>
+    <authors>Tim Hanewich</authors>
+    <owners>Tim Hanewich</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <icon>DollarIcon.png</icon>
+    <description>The cloud service adaptation for the SimulatedInvesting NuGet package. Provides cloud storage abilities for any Azure Storage Account by passing a connection string.</description>
+    <repository url="https://github.com/TimHanewich/SimulatedInvesting.AzureService" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Microsoft.Azure.Storage.Blob" version="11.1.5" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="12.0.3" exclude="Build,Analyzers" />
+        <dependency id="SimulatedInvesting" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\TaHan\Downloads\SimulatedInvesting.AzureService\bin\Debug\netstandard2.0\SimulatedInvesting.AzureService.dll" target="lib\netstandard2.0\SimulatedInvesting.AzureService.dll" />
+    <file src="C:\Users\TaHan\Downloads\SimulatedInvesting.AzureService\DollarIcon.png" target="DollarIcon.png" />
+  </files>
+</package>

@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "fAwdfOeZGuYtAoWyUO6wizGfeaVTud+lYmKE3u+TuTBP8LOH0KCf9UtHsRUJlxwElvDHuno2FSuuq31DjWKcXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TaHan\\Downloads\\SimulatedInvesting.AzureService\\SimulatedInvesting.AzureService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TaHan\\.nuget\\packages\\microsoft.azure.keyvault.core\\2.0.4\\microsoft.azure.keyvault.core.2.0.4.nupkg.sha512",
+    "C:\\Users\\TaHan\\.nuget\\packages\\microsoft.azure.storage.blob\\11.1.5\\microsoft.azure.storage.blob.11.1.5.nupkg.sha512",
+    "C:\\Users\\TaHan\\.nuget\\packages\\microsoft.azure.storage.common\\11.1.5\\microsoft.azure.storage.common.11.1.5.nupkg.sha512",
+    "C:\\Users\\TaHan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\TaHan\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
+    "C:\\Users\\TaHan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\TaHan\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\TaHan\\.nuget\\packages\\simulatedinvesting\\1.0.0\\simulatedinvesting.1.0.0.nupkg.sha512",
+    "C:\\Users\\TaHan\\.nuget\\packages\\system.runtime\\4.1.0\\system.runtime.4.1.0.nupkg.sha512",
+    "C:\\Users\\TaHan\\.nuget\\packages\\system.threading.tasks\\4.0.11\\system.threading.tasks.4.0.11.nupkg.sha512",
+    "C:\\Users\\TaHan\\.nuget\\packages\\yahoo.finance\\1.0.0\\yahoo.finance.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

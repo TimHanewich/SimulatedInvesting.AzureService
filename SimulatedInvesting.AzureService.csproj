@@ -8,6 +8,7 @@
     <RepositoryUrl>https://github.com/TimHanewich/SimulatedInvesting.AzureService</RepositoryUrl>
     <AssemblyVersion>0.0.0.0</AssemblyVersion>
     <FileVersion>0.0.0.0</FileVersion>
+    <Version>1.1.0</Version>
   </PropertyGroup>
 
   <ItemGroup>

@@ -1,9 +1,0 @@
-C:\Users\TaHan\Downloads\SimulatedInvesting.AzureService\bin\Debug\netstandard2.0\SimulatedInvesting.AzureService.deps.json
-C:\Users\TaHan\Downloads\SimulatedInvesting.AzureService\bin\Debug\netstandard2.0\SimulatedInvesting.AzureService.dll
-C:\Users\TaHan\Downloads\SimulatedInvesting.AzureService\bin\Debug\netstandard2.0\SimulatedInvesting.AzureService.pdb
-C:\Users\TaHan\Downloads\SimulatedInvesting.AzureService\obj\Debug\netstandard2.0\SimulatedInvesting.AzureService.csprojAssemblyReference.cache
-C:\Users\TaHan\Downloads\SimulatedInvesting.AzureService\obj\Debug\netstandard2.0\SimulatedInvesting.AzureService.csproj.CoreCompileInputs.cache
-C:\Users\TaHan\Downloads\SimulatedInvesting.AzureService\obj\Debug\netstandard2.0\SimulatedInvesting.AzureService.AssemblyInfoInputs.cache
-C:\Users\TaHan\Downloads\SimulatedInvesting.AzureService\obj\Debug\netstandard2.0\SimulatedInvesting.AzureService.AssemblyInfo.cs
-C:\Users\TaHan\Downloads\SimulatedInvesting.AzureService\obj\Debug\netstandard2.0\SimulatedInvesting.AzureService.dll
-C:\Users\TaHan\Downloads\SimulatedInvesting.AzureService\obj\Debug\netstandard2.0\SimulatedInvesting.AzureService.pdb

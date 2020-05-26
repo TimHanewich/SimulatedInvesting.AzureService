@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "fAwdfOeZGuYtAoWyUO6wizGfeaVTud+lYmKE3u+TuTBP8LOH0KCf9UtHsRUJlxwElvDHuno2FSuuq31DjWKcXQ==",
+  "dgSpecHash": "XMKzzzOHtu9wk0aNHZYt3pHdByLImEf56TNLVUdObSoGLkvPDETv616MmoA75Gcr5V1G3L1cclsv5nFmCZ8isQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\TaHan\\Downloads\\SimulatedInvesting.AzureService\\SimulatedInvesting.AzureService.csproj",
   "expectedPackageFiles": [
@@ -11,10 +11,12 @@
     "C:\\Users\\TaHan\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
     "C:\\Users\\TaHan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\TaHan\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
-    "C:\\Users\\TaHan\\.nuget\\packages\\simulatedinvesting\\1.0.0\\simulatedinvesting.1.0.0.nupkg.sha512",
+    "C:\\Users\\TaHan\\.nuget\\packages\\simulatedinvesting\\1.4.0\\simulatedinvesting.1.4.0.nupkg.sha512",
     "C:\\Users\\TaHan\\.nuget\\packages\\system.runtime\\4.1.0\\system.runtime.4.1.0.nupkg.sha512",
     "C:\\Users\\TaHan\\.nuget\\packages\\system.threading.tasks\\4.0.11\\system.threading.tasks.4.0.11.nupkg.sha512",
-    "C:\\Users\\TaHan\\.nuget\\packages\\yahoo.finance\\1.0.0\\yahoo.finance.1.0.0.nupkg.sha512"
+    "C:\\Users\\TaHan\\.nuget\\packages\\timhanewich.investing\\3.0.0\\timhanewich.investing.3.0.0.nupkg.sha512",
+    "C:\\Users\\TaHan\\.nuget\\packages\\timhanewichtoolkit\\1.0.0\\timhanewichtoolkit.1.0.0.nupkg.sha512",
+    "C:\\Users\\TaHan\\.nuget\\packages\\yahoo.finance\\3.0.0\\yahoo.finance.3.0.0.nupkg.sha512"
   ],
   "logs": []
 }
